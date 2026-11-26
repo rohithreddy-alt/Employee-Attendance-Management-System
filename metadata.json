@@ -1,0 +1,6 @@
+{
+  "name": "AttendPro — Employee Attendance Management System",
+  "description": "Full-stack Employee Attendance Management System with real-time analytics, employee directory, daily attendance tracking, history logs, department management, and CSV/print reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
